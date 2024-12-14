@@ -44,9 +44,3 @@ This repository contains Python code for implementing Logistic Regression, cover
   - Visualizing results with detailed charts and plots.
 
 ---
-
-## How to Use
-
-### Clone the repository:
-```bash
-git clone https://github.com/Tarunvaka/logistic-regression.git
